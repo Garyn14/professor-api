@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: professors
+  data:
+    mongodb:
+      uri: mongodb://admin:papoticodb@localhost:27017/professor
