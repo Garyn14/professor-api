@@ -9,7 +9,7 @@ import unmsm.api.professors.professors.infrastructure.persistence.mongo.docuemen
  * @date 8/05/2025 01:11
  */
 @Component
-public class ProfessorMongoMapperImpl implements ProfessorMongoMapper{
+public class ProfessorMongoMapperImpl implements ProfessorMongoMapper {
     @Override
     public Professor toModel(ProfessorDocument professorDocument) {
         if (professorDocument == null) {

@@ -3,4 +3,14 @@ spring:
     name: professors
   data:
     mongodb:
-      uri: mongodb://admin:papoticodb@localhost:27017/professor
+      uri: ${SPRING_DATA_MONGODB_URI}
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          mongodb:
+            core:
+              MongoTemplate: DEBUG
+    com:
+      mongodb: DEBUG

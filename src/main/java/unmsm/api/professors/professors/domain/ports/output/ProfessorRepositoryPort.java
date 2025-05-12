@@ -11,7 +11,10 @@ import java.util.Optional;
  */
 public interface ProfessorRepositoryPort {
     List<Professor> findAll();
+
     Optional<Professor> findById(String id);
+
     List<Professor> findByFaculty(String faculty);
+
     List<Professor> findByName(String name);
 }

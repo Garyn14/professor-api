@@ -10,8 +10,12 @@ import java.util.List;
  */
 public interface GetProfessorsUseCase {
     List<ProfessorResponse> getAllProfessors();
+
     ProfessorResponse getProfessorById(String id);
+
     List<ProfessorResponse> getProfessorsByFaculty(String faculty);
+
     List<ProfessorResponse> getProfessorsByName(String name);
+
     List<ProfessorResponse> getProfessorsByCourse(String course);
 }

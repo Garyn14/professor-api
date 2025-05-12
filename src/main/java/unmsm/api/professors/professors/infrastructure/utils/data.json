@@ -1187,7 +1187,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/hans-aguilar-mendoza-aguilar-mendoza_20989",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -1765,7 +1767,9 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/alert1-alert1_20365",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "2.0"
@@ -2475,7 +2479,9 @@
     "ratingsCount": 2,
     "averageRating": 3.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/frank-duberlee-alvarez-huertas_17100",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -3791,7 +3797,9 @@
     "ratingsCount": 1,
     "averageRating": 3.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/alfredo-aragaki_16930",
-    "tags": ["ASISTENCIA OBLIGATORIA (1)"],
+    "tags": [
+      "ASISTENCIA OBLIGATORIA (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -4824,7 +4832,9 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/edwin-johny-asnate-salazar_19004",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -6926,7 +6936,9 @@
     "ratingsCount": 4,
     "averageRating": 6.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/yanette-baca_13629",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "50%",
       "difficulty": "4.0"
@@ -7041,7 +7053,10 @@
     "ratingsCount": 2,
     "averageRating": 5.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/hilda-barentzen_14944",
-    "tags": ["PREPÁRATE PARA LEER (2)", "DEJA TRABAJOS LARGOS (1)"],
+    "tags": [
+      "PREPÁRATE PARA LEER (2)",
+      "DEJA TRABAJOS LARGOS (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -7453,7 +7468,10 @@
     "ratingsCount": 2,
     "averageRating": 6.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/elvia-barturen_19105",
-    "tags": ["CALIFICA DURO (1)", "LOS EXÁMENES SON DIFÍCILES (1)"],
+    "tags": [
+      "CALIFICA DURO (1)",
+      "LOS EXÁMENES SON DIFÍCILES (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "5.0"
@@ -8049,7 +8067,10 @@
     "ratingsCount": 7,
     "averageRating": 7.2857,
     "profileUrl": "https://peru.misprofesores.com/profesores/santiago-bazan_13733",
-    "tags": ["MUY CÓMICO (1)", "POCOS EXÁMENES (1)"],
+    "tags": [
+      "MUY CÓMICO (1)",
+      "POCOS EXÁMENES (1)"
+    ],
     "stats": {
       "takeAgain": "57%",
       "difficulty": "2.3"
@@ -8531,7 +8552,10 @@
     "ratingsCount": 1,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/claudia-berzoy-llerena_20533",
-    "tags": ["CALIFICA DURO (1)", "LOS EXÁMENES SON DIFÍCILES (1)"],
+    "tags": [
+      "CALIFICA DURO (1)",
+      "LOS EXÁMENES SON DIFÍCILES (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -9540,7 +9564,9 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/rolando-alberto-cadenla-luna-victoria_15425",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -10139,7 +10165,9 @@
     "ratingsCount": 2,
     "averageRating": 3.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/yadhira-cairo_16106",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -10176,7 +10204,10 @@
     "ratingsCount": 2,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/victor-raul-caja-rivera_16857",
-    "tags": ["MUCHAS TAREAS (1)", "LAS CLASES SON LARGAS (1)"],
+    "tags": [
+      "MUCHAS TAREAS (1)",
+      "LAS CLASES SON LARGAS (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "7.0"
@@ -10477,7 +10508,10 @@
     "ratingsCount": 1,
     "averageRating": 5.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/mario-camara-figueroa_17943",
-    "tags": ["PREPÁRATE PARA LEER (1)", "POCOS EXÁMENES (1)"],
+    "tags": [
+      "PREPÁRATE PARA LEER (1)",
+      "POCOS EXÁMENES (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -10503,7 +10537,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/fernando-cesar-camones-gonzales_20529",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -11901,7 +11937,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/miguel-carazas-perez_16032",
-    "tags": ["CLASES EXCELENTES (1)"],
+    "tags": [
+      "CLASES EXCELENTES (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -13404,7 +13442,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/sebastian-josue-ccama-jimenez_20477",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -13493,7 +13533,9 @@
     "ratingsCount": 5,
     "averageRating": 8.2,
     "profileUrl": "https://peru.misprofesores.com/profesores/luis-alberto-celis-novoa_13990",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "80%",
       "difficulty": "2.0"
@@ -13653,7 +13695,9 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/rommel-chavez-capcha_20251",
-    "tags": ["LA PARTICIPACIÓN IMPORTA (1)"],
+    "tags": [
+      "LA PARTICIPACIÓN IMPORTA (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -14545,7 +14589,11 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/sebastian-joaquin-chicata-serrato_20475",
-    "tags": ["CALIFICA DURO (1)", "BARCO (1)", "PREPÁRATE PARA LEER (1)"],
+    "tags": [
+      "CALIFICA DURO (1)",
+      "BARCO (1)",
+      "PREPÁRATE PARA LEER (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -15123,7 +15171,9 @@
     "ratingsCount": 57,
     "averageRating": 9.0351,
     "profileUrl": "https://peru.misprofesores.com/profesores/octavio-chon_14670",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "96%",
       "difficulty": "3.9"
@@ -18030,7 +18080,11 @@
     "ratingsCount": 2,
     "averageRating": 5.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/ana-eylin-coronel-tello_18788",
-    "tags": ["DA CRÉDITO EXTRA (1)", "POCOS EXÁMENES (1)", "BRINDA APOYO (1)"],
+    "tags": [
+      "DA CRÉDITO EXTRA (1)",
+      "POCOS EXÁMENES (1)",
+      "BRINDA APOYO (1)"
+    ],
     "stats": {
       "takeAgain": "50%",
       "difficulty": "4.0"
@@ -19159,7 +19213,11 @@
     "ratingsCount": 1,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/luis-ernesto-cruzado_17482",
-    "tags": ["BARCO (1)", "PREPÁRATE PARA LEER (1)", "POCOS EXÁMENES (1)"],
+    "tags": [
+      "BARCO (1)",
+      "PREPÁRATE PARA LEER (1)",
+      "POCOS EXÁMENES (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -19185,7 +19243,10 @@
     "ratingsCount": 2,
     "averageRating": 2.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/zenon-cuchito_17606",
-    "tags": ["HACE EXÁMENES SORPRESA (1)", "BARCO (1)"],
+    "tags": [
+      "HACE EXÁMENES SORPRESA (1)",
+      "BARCO (1)"
+    ],
     "stats": {
       "takeAgain": "50%",
       "difficulty": "5.0"
@@ -19545,7 +19606,9 @@
     "ratingsCount": 4,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/alex-de-la-cruz_19003",
-    "tags": ["DA BUENA RETROALIMENTACIÓN (1)"],
+    "tags": [
+      "DA BUENA RETROALIMENTACIÓN (1)"
+    ],
     "stats": {
       "takeAgain": "75%",
       "difficulty": "2.0"
@@ -21544,7 +21607,9 @@
     "ratingsCount": 1,
     "averageRating": 3.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/ricardo-falla_15153",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -22077,7 +22142,9 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/roberto-carlos-fiestas-flores_19000",
-    "tags": ["LA PARTICIPACIÓN IMPORTA (1)"],
+    "tags": [
+      "LA PARTICIPACIÓN IMPORTA (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -22103,7 +22170,9 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/administracion-fisi_20847",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -22888,7 +22957,9 @@
     "ratingsCount": 2,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/jose-antonio-franco-iparraguirre_17000",
-    "tags": ["CALIFICA DURO (1)"],
+    "tags": [
+      "CALIFICA DURO (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -23300,7 +23371,10 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/marco-antonio-gallarday_18701",
-    "tags": ["MUY CÓMICO (1)", "BRINDA APOYO (1)"],
+    "tags": [
+      "MUY CÓMICO (1)",
+      "BRINDA APOYO (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "2.0"
@@ -23966,7 +24040,10 @@
     "ratingsCount": 8,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/victor-manuel-giudice-baca_16734",
-    "tags": ["LAS CLASES SON LARGAS (2)", "PREPÁRATE PARA LEER (1)"],
+    "tags": [
+      "LAS CLASES SON LARGAS (2)",
+      "PREPÁRATE PARA LEER (1)"
+    ],
     "stats": {
       "takeAgain": "13%",
       "difficulty": "5.0"
@@ -25548,7 +25625,10 @@
     "ratingsCount": 6,
     "averageRating": 6.3333,
     "profileUrl": "https://peru.misprofesores.com/profesores/william-guevara_15141",
-    "tags": ["CALIFICA DURO (1)", "ASISTENCIA OBLIGATORIA (1)"],
+    "tags": [
+      "CALIFICA DURO (1)",
+      "ASISTENCIA OBLIGATORIA (1)"
+    ],
     "stats": {
       "takeAgain": "50%",
       "difficulty": "6.0"
@@ -26365,7 +26445,10 @@
     "ratingsCount": 1,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/beatriz-herrera-garcia_16850",
-    "tags": ["INSPIRACIONAL (1)", "LAS CLASES SON LARGAS (1)"],
+    "tags": [
+      "INSPIRACIONAL (1)",
+      "LAS CLASES SON LARGAS (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -27340,7 +27423,9 @@
     "ratingsCount": 1,
     "averageRating": 6.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/manuel-alberto-hidalgo-tupia_16849",
-    "tags": ["PREPÁRATE PARA LEER (1)"],
+    "tags": [
+      "PREPÁRATE PARA LEER (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -27366,7 +27451,9 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/jose-horna-torres_20650",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "0.0"
@@ -29664,7 +29751,10 @@
     "ratingsCount": 1,
     "averageRating": 9.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/juan-jose-javier-jara_18694",
-    "tags": ["MUCHAS TAREAS (1)", "PREPÁRATE PARA LEER (1)"],
+    "tags": [
+      "MUCHAS TAREAS (1)",
+      "PREPÁRATE PARA LEER (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -29797,7 +29887,9 @@
     "ratingsCount": 1,
     "averageRating": 7.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/edwin-ku-pomareda_20267",
-    "tags": ["LA PARTICIPACIÓN IMPORTA (1)"],
+    "tags": [
+      "LA PARTICIPACIÓN IMPORTA (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "2.0"
@@ -31210,7 +31302,9 @@
     "ratingsCount": 1,
     "averageRating": 6.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/kelva-nathally-llanos-miranda_19005",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -32034,7 +32128,9 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/raul-enrique-lozan-cangalaya_19928",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -33323,7 +33419,9 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/hector-marengo_14801",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -33349,7 +33447,9 @@
     "ratingsCount": 3,
     "averageRating": 3.3333,
     "profileUrl": "https://peru.misprofesores.com/profesores/ricardo-martinez_13734",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "0.0"
@@ -33974,7 +34074,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/rosa-melano_16297",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -35502,7 +35604,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/john-william-montgomery-urday_15144",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -37284,7 +37388,9 @@
     "ratingsCount": 1,
     "averageRating": 6.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/roger-pedro-norabuena-figueroa_18962",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -37321,7 +37427,9 @@
     "ratingsCount": 4,
     "averageRating": 2.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/franzua-oblitas-aristondo_18919",
-    "tags": ["INSPIRACIONAL (1)"],
+    "tags": [
+      "INSPIRACIONAL (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.5"
@@ -37923,7 +38031,10 @@
     "ratingsCount": 1,
     "averageRating": 6.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/juan-carlos-orellano-antunez_16846",
-    "tags": ["DA BUENA RETROALIMENTACIÓN (1)", "PREPÁRATE PARA LEER (1)"],
+    "tags": [
+      "DA BUENA RETROALIMENTACIÓN (1)",
+      "PREPÁRATE PARA LEER (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -38111,7 +38222,9 @@
     "ratingsCount": 1,
     "averageRating": 7.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/raul-ortiz_15468",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -38877,7 +38990,9 @@
     "ratingsCount": 2,
     "averageRating": 6.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/erik-alex-papa-quiroz_15159",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "5.0"
@@ -39701,7 +39816,9 @@
     "ratingsCount": 6,
     "averageRating": 5.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/carlos-pena_14203",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "33%",
       "difficulty": "5.3"
@@ -41465,7 +41582,10 @@
     "ratingsCount": 2,
     "averageRating": 2.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/nelly-demetria-pillhuaman-cana_19036",
-    "tags": ["CALIFICA DURO (2)", "LOS EXÁMENES SON DIFÍCILES (2)"],
+    "tags": [
+      "CALIFICA DURO (2)",
+      "LOS EXÁMENES SON DIFÍCILES (2)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -42284,7 +42404,9 @@
     "ratingsCount": 4,
     "averageRating": 6.75,
     "profileUrl": "https://peru.misprofesores.com/profesores/luis-piscoya_14298",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "75%",
       "difficulty": "7.0"
@@ -42397,7 +42519,10 @@
     "ratingsCount": 1,
     "averageRating": 7.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/tiberio-pizango-tangoa_18805",
-    "tags": ["LAS CLASES SON LARGAS (1)", "CLASES EXCELENTES (1)"],
+    "tags": [
+      "LAS CLASES SON LARGAS (1)",
+      "CLASES EXCELENTES (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -43507,7 +43632,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/carmen-quintana_14800",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -44167,7 +44294,9 @@
     "ratingsCount": 1,
     "averageRating": 3.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/-quispe_13628",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -44713,7 +44842,9 @@
     "ratingsCount": 1,
     "averageRating": 9.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/hector-ramirez-choq_14982",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -44988,7 +45119,10 @@
     "ratingsCount": 2,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/ridberth-marcelino-ramirez-miranda_15626",
-    "tags": ["ASISTENCIA OBLIGATORIA (1)", "LAS CLASES SON LARGAS (1)"],
+    "tags": [
+      "ASISTENCIA OBLIGATORIA (1)",
+      "LAS CLASES SON LARGAS (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -45274,7 +45408,9 @@
     "ratingsCount": 1,
     "averageRating": 6.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/armas-calderon-raul-marcelo_19961",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -45539,7 +45675,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/fernando-retuerto-prieto_15467",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -45565,7 +45703,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/neptaly-antony-reyes-cabrera_18373",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -45802,7 +45942,10 @@
     "ratingsCount": 3,
     "averageRating": 7.6667,
     "profileUrl": "https://peru.misprofesores.com/profesores/anita-marlene-reyes-huaman_17816",
-    "tags": ["MUCHAS TAREAS (2)", "MUCHOS PROYECTOS GRUPALES (1)"],
+    "tags": [
+      "MUCHAS TAREAS (2)",
+      "MUCHOS PROYECTOS GRUPALES (1)"
+    ],
     "stats": {
       "takeAgain": "67%",
       "difficulty": "2.7"
@@ -46539,7 +46682,10 @@
     "ratingsCount": 1,
     "averageRating": 3.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/hoover-rios-zuta_18111",
-    "tags": ["MUY CÓMICO (1)", "MUCHAS TAREAS (1)"],
+    "tags": [
+      "MUY CÓMICO (1)",
+      "MUCHAS TAREAS (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "2.0"
@@ -46740,7 +46886,9 @@
     "ratingsCount": 2,
     "averageRating": 4.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/pablo-rivas_18576",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "3.0"
@@ -46939,7 +47087,9 @@
     "ratingsCount": 13,
     "averageRating": 3.4615,
     "profileUrl": "https://peru.misprofesores.com/profesores/alberto-rivero-zapata_14390",
-    "tags": ["BRINDA APOYO (1)"],
+    "tags": [
+      "BRINDA APOYO (1)"
+    ],
     "stats": {
       "takeAgain": "8%",
       "difficulty": "3.5"
@@ -47152,7 +47302,9 @@
     "ratingsCount": 7,
     "averageRating": 3.1429,
     "profileUrl": "https://peru.misprofesores.com/profesores/richard-hernan-roca-garay_15177",
-    "tags": ["POCOS EXÁMENES (1)"],
+    "tags": [
+      "POCOS EXÁMENES (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "3.1"
@@ -47345,7 +47497,9 @@
     "ratingsCount": 2,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/ronald-david-rocha-cabrera_17567",
-    "tags": ["CALIFICA DURO (2)"],
+    "tags": [
+      "CALIFICA DURO (2)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -48967,7 +49121,9 @@
     "ratingsCount": 2,
     "averageRating": 2.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/ofelia-roque-paredes_18813",
-    "tags": ["LAS CLASES SON LARGAS (1)"],
+    "tags": [
+      "LAS CLASES SON LARGAS (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -49004,7 +49160,9 @@
     "ratingsCount": 3,
     "averageRating": 6.3333,
     "profileUrl": "https://peru.misprofesores.com/profesores/diogenes-rosales-papa_13201",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -49903,7 +50061,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/felix-saavedra-nizama_15115",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -51397,7 +51557,9 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/janett-isabel-sanchez-pimentel_17505",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "2.0"
@@ -51601,7 +51763,9 @@
     "ratingsCount": 4,
     "averageRating": 2.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/elias-david-sanchez-zegara_15005",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.5"
@@ -52034,7 +52198,9 @@
     "ratingsCount": 4,
     "averageRating": 5.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/abel-santibanez-collado_13881",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "25%",
       "difficulty": "5.0"
@@ -52205,7 +52371,11 @@
     "ratingsCount": 1,
     "averageRating": 8.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/melanio-sempertegui_20969",
-    "tags": ["MUY CÓMICO (1)", "INSPIRACIONAL (1)", "DA CRÉDITO EXTRA (1)"],
+    "tags": [
+      "MUY CÓMICO (1)",
+      "INSPIRACIONAL (1)",
+      "DA CRÉDITO EXTRA (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "2.0"
@@ -53875,7 +54045,9 @@
     "ratingsCount": 1,
     "averageRating": 2.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/gilmer-torres_14802",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "8.0"
@@ -54140,7 +54312,9 @@
     "ratingsCount": 1,
     "averageRating": 10.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/chupetin-trujillo_18306",
-    "tags": ["MUCHAS TAREAS (1)"],
+    "tags": [
+      "MUCHAS TAREAS (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "0.0"
@@ -55040,7 +55214,9 @@
     "ratingsCount": 1,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/cesar-urvano_14145",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "4.0"
@@ -55708,7 +55884,10 @@
     "ratingsCount": 1,
     "averageRating": 7.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/ivonee-yanete-vargas-salazar_17596",
-    "tags": ["ASISTENCIA OBLIGATORIA (1)", "DEJA TRABAJOS LARGOS (1)"],
+    "tags": [
+      "ASISTENCIA OBLIGATORIA (1)",
+      "DEJA TRABAJOS LARGOS (1)"
+    ],
     "stats": {
       "takeAgain": "100%",
       "difficulty": "2.0"
@@ -55734,7 +55913,9 @@
     "ratingsCount": 2,
     "averageRating": 3.5,
     "profileUrl": "https://peru.misprofesores.com/profesores/edwin-vasquez-mansilla_15013",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "2.0"
@@ -55856,7 +56037,9 @@
     "ratingsCount": 3,
     "averageRating": 6.3333,
     "profileUrl": "https://peru.misprofesores.com/profesores/lucy-vega_14939",
-    "tags": ["BRINDA APOYO (1)"],
+    "tags": [
+      "BRINDA APOYO (1)"
+    ],
     "stats": {
       "takeAgain": "67%",
       "difficulty": "5.3"
@@ -56456,7 +56639,9 @@
     "ratingsCount": 9,
     "averageRating": 8.8889,
     "profileUrl": "https://peru.misprofesores.com/profesores/edgar-diogenes-vera-saravia_13950",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "89%",
       "difficulty": "3.6"
@@ -56600,7 +56785,9 @@
     "ratingsCount": 1,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/cabanillas-zannini-victor-rafael_19002",
-    "tags": [""],
+    "tags": [
+      ""
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "6.0"
@@ -56701,7 +56888,10 @@
     "ratingsCount": 1,
     "averageRating": 4.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/patricia-victorio-canovas_18487",
-    "tags": ["DEJA TRABAJOS LARGOS (1)", "MUCHOS PROYECTOS GRUPALES (1)"],
+    "tags": [
+      "DEJA TRABAJOS LARGOS (1)",
+      "MUCHOS PROYECTOS GRUPALES (1)"
+    ],
     "stats": {
       "takeAgain": "0%",
       "difficulty": "4.0"
@@ -56798,7 +56988,9 @@
     "ratingsCount": 2,
     "averageRating": 6.0,
     "profileUrl": "https://peru.misprofesores.com/profesores/efrain-vilca-sosa_15717",
-    "tags": ["RESPETADO POR LOS ESTUDIANTES (1)"],
+    "tags": [
+      "RESPETADO POR LOS ESTUDIANTES (1)"
+    ],
     "stats": {
       "takeAgain": "50%",
       "difficulty": "4.0"
@@ -57436,7 +57628,10 @@
     "ratingsCount": 8,
     "averageRating": 5.125,
     "profileUrl": "https://peru.misprofesores.com/profesores/zelma-wong_13738",
-    "tags": ["LA PARTICIPACIÓN IMPORTA (1)", "ASISTENCIA OBLIGATORIA (1)"],
+    "tags": [
+      "LA PARTICIPACIÓN IMPORTA (1)",
+      "ASISTENCIA OBLIGATORIA (1)"
+    ],
     "stats": {
       "takeAgain": "25%",
       "difficulty": "3.2"

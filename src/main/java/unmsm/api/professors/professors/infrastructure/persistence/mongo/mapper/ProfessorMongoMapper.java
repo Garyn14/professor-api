@@ -9,5 +9,6 @@ import unmsm.api.professors.professors.infrastructure.persistence.mongo.docuemen
  */
 public interface ProfessorMongoMapper {
     Professor toModel(ProfessorDocument professorDocument);
+
     ProfessorDocument toDocument(Professor professor);
 }

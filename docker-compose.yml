@@ -1,0 +1,8 @@
+services:
+  professors-app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATA_MONGODB_URI: "mongodb+srv://garynfernandohr:rt8l1ylhWVw3M3RM@professor.q7lqjdp.mongodb.net/professor?retryWrites=true&w=majority&appName=professor"
+    restart: unless-stopped
