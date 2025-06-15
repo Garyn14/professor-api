@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * @date 11/05/2025 12:22
  */
 @Configuration
-public class CorsConfiguration {
+public class CorsConfig {
 
     @Bean
     public WebMvcConfigurer webMvcConfigurer() {
